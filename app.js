@@ -39,7 +39,7 @@ function myChange() {
 
   else if (((d.value == e.value && e.value==f.value )||(e.value == b.value && e.value==h.value )||(c.value==e.value && e.value==g.value )) && e.value!=""){
 
-    p.innerHTML = "Result : player " + e.value +" win";
+    p.innerHTML = "Result : Player " + e.value +" win";
 
   }
 
